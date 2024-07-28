@@ -20,8 +20,8 @@ The order is as follows:
 After each traversal has completed, the shortest path from the start node to the destination node is printed at the bottom of the graph.
 
 ## In-Action
-![Breadth-first Example](./images/breadth.png)
+![Breadth-first Example](./images/depth.png)
 <i>Image in the beginning of a breadth first search, with a few nodes in progress of being explored, and many yet to be discovered.</i>
 
-![Depth-first Example](./images/depth.png)
+![Depth-first Example](./images/breadth.png)
 <i>Image at the end of depth first search, with the current shortest path displayed on the bottom and all nodes fully explored</i>
